@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Epic Coomer
+Not so Epic Coomer
 Use the left arrow to go back!
